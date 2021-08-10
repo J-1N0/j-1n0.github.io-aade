@@ -304,7 +304,7 @@ td.form-fields textarea.text-field{
 	height: 192px;
 }
 .dialog-preview.ds.text-only{
-	width: 256px;
+	width: 768px;
 	height: 64px;
 	background: url('../images/dialog_box_ds.png?v=1.0.1');
 }
